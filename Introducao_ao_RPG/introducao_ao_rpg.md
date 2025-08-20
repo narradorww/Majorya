@@ -6,7 +6,7 @@ Bem-vindo(a) ao fascinante mundo dos RPGs (Role-Playing Games)! Se você é novo
 
 Um RPG é como uma história colaborativa, onde você e seus amigos são os protagonistas. Não há vencedores ou perdedores no sentido tradicional, mas sim uma jornada compartilhada de aventuras, desafios e descobertas.
 
-*   **Você é o Herói (ou Anti-Herói!):** Cada jogador cria e interpreta um personagem, tomando decisões como se fosse ele, explorando o mundo e interagindo com seus habitantes.
+*   **Você é o Herói:** Cada jogador cria e interpreta um personagem, tomando decisões como se fosse ele, explorando o mundo e interagindo com seus habitantes.
 *   **O Narrador é o Mundo:** Uma pessoa assume o papel de Narrador (também conhecido como Mestre de Jogo ou GM). O Narrador é responsável por descrever o mundo, os desafios, os personagens não-jogadores (NPCs) e as consequências das ações dos jogadores. Ele é os olhos e ouvidos dos jogadores no mundo de Majorya.
 *   **A Imaginação é o Limite:** A maior parte do jogo acontece na mente de todos. O Narrador descreve, os jogadores imaginam e agem, e os dados e moedas ajudam a decidir o que acontece quando a incerteza entra em jogo.
 
