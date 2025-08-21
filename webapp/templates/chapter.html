@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ chapter_name.replace('_', ' ') }} - Majorya RPG</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <header>
+        <h1>Majorya RPG</h1>
+        <nav>
+            <a href="{{ url_for('index') }}">Voltar ao Índice</a>
+        </nav>
+    </header>
+    <main class="chapter-content">
+        <div class="edit-button-container">
+            <a href="{{ url_for('edit_chapter', chapter_name=chapter_name) }}" class="button">Editar Capítulo</a>
+        </div>
+        {{ content|safe }}
+    </main>
+    <footer>
+        <p>Majorya RPG - Clube de RPG 2025</p>
+    </footer>
+</body>
+</html>

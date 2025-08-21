@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Editando {{ chapter_name.replace('_', ' ') }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <header>
+        <h1>Editando: {{ chapter_name.replace('_', ' ') }}</h1>
+        <nav>
+            <a href="{{ url_for('chapter_view', chapter_name=chapter_name) }}">Cancelar Edição</a>
+        </nav>
+    </header>
+    <main>
+        <form method="post">
+            <div class="template-buttons">
+                <span>Inserir Template:</span>
+                {% for name in templates.keys() %}
+                    <button type="button" onclick="insertTemplate('{{ name }}')">{{ name }}</button>
+                {% endfor %}
+            </div>
+            <textarea name="content" id="editor" rows="30">{{ content }}</textarea>
+            <div class="form-actions">
+                <button type="submit" class="button">Salvar Alterações</button>
+            </div>
+        </form>
+    </main>
+
+    <script>
+        // Use the 'tojson' filter to safely serialize the Python dict to a JS object
+        const templates = {{ templates|tojson }};
+
+        function insertTemplate(templateName) {
+            const templateText = templates[templateName];
+            if (!templateText) return;
+
+            const editor = document.getElementById('editor');
+            const start = editor.selectionStart;
+            const end = editor.selectionEnd;
+            const text = editor.value;
+
+            const before = text.substring(0, start);
+            const after = text.substring(end, text.length);
+
+            editor.value = before + templateText + after;
+            editor.focus();
+
+            // Place cursor after the inserted text
+            editor.selectionStart = editor.selectionEnd = start + templateText.length;
+        }
+    </script>
+</body>
+</html>
