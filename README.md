@@ -28,3 +28,6 @@ Criar um RPG acessível, divertido e narrativo para ser jogado em clubes escolar
 
 ✨ _"Das mãos do Artista, Majorya nasceu.  
 E de cada fragmento, um destino foi escrito."_
+
+by Miguel Pimenta Alexandre e Rodrigo da Costa Alexandre
+
