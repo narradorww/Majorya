@@ -64,9 +64,135 @@ O combate em Majoria RPG é rápido e emocionante.
     *   **Dano Extra:** Um Sucesso Absoluto no ataque pode causar dano extra ou um efeito especial (ex: derrubar o inimigo).
     *   **Redução de Dano:** Armaduras ou habilidades podem reduzir o dano sofrido.
 
-## 🧙 Magia e Habilidades Especiais
+# ⚡ Essência (PE): Sua Energia Interior
 
-A magia e as habilidades especiais são raras e poderosas em Majoria. Elas serão detalhadas em capítulos futuros, mas geralmente envolvem Testes de Inteligência (para conjurar feitiços) ou Carisma (para habilidades de liderança/inspiração).
+Em Majorya, todo poder vem da **Essência**, fragmentos do Coração-Estrela que vivem dentro de todos.
+
+Ela representa:
+
+- Mana (magia)
+- Técnica física aprimorada
+- Força espiritual
+- Determinação em combate
+
+Todas as classes usam Essência.
+
+---
+
+# 📊 Pontos de Essência (PE)
+
+## Cálculo Inicial
+
+
+PE = 5 + Atributo Principal + Nível
+
+
+### Exemplos
+
+- Mago nível 1 com INT 3 → 9 PE
+- Guerreiro nível 1 com FOR 3 → 9 PE
+
+---
+
+# ⚡ Gastando Essência
+
+Habilidades custam PE:
+
+- 🟢 Técnica Simples → 1 PE
+- 🟡 Técnica Intermediária → 3 PE
+- 🔴 Técnica Superior → 5 PE
+- 🌑 Técnica Suprema → 8–10 PE
+
+Sem PE suficiente?
+
+Você pode forçar a habilidade:
+
+- Sofre 1D6 de dano
+- Recebe -2 em testes por 1 turno
+
+---
+
+# 🔄 Recuperando Essência
+
+## Descanso Curto (10–20 minutos)
+
+Recupera:
+
+
+Metade do Nível + Atributo Principal
+
+
+## Descanso Longo
+
+Recupera toda Essência.
+
+---
+
+# 🔥 Sobrecarga (Opcional)
+
+Você pode gastar +2 PE para ganhar +1 dado de dano.
+
+Se tirar 1 natural no ataque → sofre 1D6 de dano.
+
+---
+
+# ⚔️ Combate: Ação e Perigo!
+
+## 🏁 Iniciativa
+
+Todos fazem Teste de Agilidade.  
+Quem tiver mais Sucessos age primeiro.
+
+Empate? Moeda da Sorte.
+
+---
+
+## 🎯 Ataque
+
+Role:
+
+- FOR para corpo a corpo
+- AGI para ataques à distância
+
+Número de Sucessos necessários depende da dificuldade.
+
+---
+
+## 🛡 Defesa
+
+Você pode:
+
+- Esquivar (AGI)
+- Bloquear (FOR ou VIG)
+
+Seus Sucessos reduzem os do atacante.
+
+---
+
+## 💥 Dano
+
+Armas causam geralmente 1D6 ou 2D6.
+
+Cada Sucesso no dado de dano = 1 ponto de dano ao alvo.
+
+Sucesso Absoluto pode causar efeito extra.
+
+Armaduras reduzem dano.
+
+---
+
+# 🧙 Magia e Habilidades Especiais
+
+Magias e técnicas usam Essência.
+
+Geralmente envolvem:
+
+- INT para conjuração
+- CAR para poderes espirituais
+- FOR ou AGI para técnicas marciais especiais
+
+---
+
 
 ## 📚 Aprendendo e se Divertindo!
 
