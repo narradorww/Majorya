@@ -1,133 +1,481 @@
-🧠 MAGO — Tradições Arcanas
-O Mago molda a magia através do estudo. Sua Tradição é chamada de Escola Arcana.
+# 🌌 DOMÍNIOS ARCANOS DE MAJORYA
+## Expansões da Essência
 
-⚔️ Escola da Lâmina Arcana (Cortes)
-Tema: Energia condensada em fio cortante.
+> “A magia manipula a Essência.
+> Os Domínios impõem a vontade do usuário sobre a realidade.”
 
-Habilidade Passiva: Seus feitiços ignoram 1 ponto de defesa.
+Os **Domínios Arcanos** são manifestações supremas da conexão entre um indivíduo e o **Coração-Estrela**.
 
-Técnicas
-Nível 1 — Lâmina Espectral
-1d8 corte arcano corpo a corpo ou 6m.
+Dentro de um Domínio:
 
-Nível 3 — Chuva de Lâminas
-2d6 em área pequena.
+- o ambiente se transforma;
+- a Essência do usuário domina o espaço;
+- técnicas tornam-se amplificadas;
+- e as regras naturais começam a se dobrar.
 
-Nível 5 — Corte Dimensional
-3d8 e ignora resistências físicas.
+Cada Domínio reflete:
 
-Estilo: Mago mais agressivo e tático.
+- a técnica do conjurador;
+- sua personalidade;
+- sua ligação espiritual com os Fragmentos.
 
-🔥 Escola da Piromancia (Fogo)
-Tema: Destruição e expansão.
+---
 
-Passiva: Alvos atingidos sofrem 1d4 adicional no próximo turno.
+# ⚠️ REGRAS GERAIS DOS DOMÍNIOS
 
-Nível 1 — Seta Flamejante
-1d10 fogo.
+## 🔹 Requisitos
 
-Nível 3 — Explosão Ígnea
-2d8 em área.
+Um personagem só pode despertar um Domínio quando:
 
-Nível 5 — Inferno Controlado
-3d10 em área ampla.
+- alcança o **Nível 7**;
+- possui pelo menos **40 PE máximos**;
+- domina completamente sua técnica;
+- sobrevive a um evento ligado ao Coração-Estrela.
 
-Estilo: Controle de multidões.
+---
 
-❄️ Escola do Gelo Rúnico
-Passiva: Reduz movimento do alvo atingido.
+## 🔹 Ativação
 
-Nível 1 — Estilhaço Glacial (1d8) Nível 3 — Prisão de Gelo (imobiliza) Nível 5 — Era do Inverno (3d8 + lentidão em área)
+### Custo
 
-Estilo: Controle total de campo.
+- 50% do PE máximo;
+- +1 nível de Exaustão ao término.
 
-🔥 FEITICEIRO — Linhagens do Sangue
-O poder vem da origem mágica.
+### Duração
 
-⚡ Linhagem da Tempestade
-Passiva: Magias podem saltar para segundo alvo (50% dano).
+- 3 turnos;
+- ou até o usuário cair inconsciente.
 
-Nível 1 — Raio Instintivo (1d10) Nível 3 — Trovão Expansivo (2d8 área) Nível 5 — Tempestade Viva (3d10 + atordoar)
+---
 
-Estilo: Explosivo e imprevisível.
+## 🔹 Efeitos Gerais
 
-🔥 Linhagem Dracônica (Fogo)
-Passiva: Resistência a fogo.
+### O Usuário Recebe
 
-Nível 1 — Sopro Menor (cone 1d8) Nível 3 — Escamas Ardentes (reduz dano) Nível 5 — Forma Dracônica (3 turnos, +2 dados fogo)
+- +2 sucessos automáticos em técnicas principais;
+- redução no custo de PE;
+- prioridade em disputas mágicas.
 
-Estilo: Poder bruto sustentado.
+### Inimigos Sofrem
 
-🌌 Linhagem da Ruptura
-Passiva: Pode alterar tipo de dano 1x por combate.
+- dificuldade +1 em testes;
+- pressão espiritual;
+- dificuldade para escapar da barreira.
 
-Nível 1 — Pulso Caótico (1d10 aleatório) Nível 3 — Distorção Arcana (troca posições) Nível 5 — Explosão da Imperfeição (3d12 imprevisível)
+---
 
-Estilo: Caos controlado.
+---
 
-🌿 BRUXA — Pactos e Véus
-🌑 Pacto do Sangue
-Passiva: Pode sacrificar 5 PV para dobrar dano.
+# 🧠 MAGO — TRADIÇÕES ARCANAS
 
-Nível 1 — Espinho Hemático (1d8) Nível 3 — Ritual Carmesim (dano contínuo) Nível 5 — Lua Escarlate (3d8 área + cura metade)
+Os Magos possuem Domínios extremamente precisos e estáveis.
 
-Estilo: Risco e recompensa.
+---
 
-🌿 Pacto da Floresta Antiga
-Passiva: Recupera 2 PV por turno em ambiente natural.
+# ⚔️ ESCOLA DA LÂMINA ARCANA
+## Domínio — *Santuário das Mil Lâminas*
 
-Nível 1 — Raízes Presas (imobiliza) Nível 3 — Névoa Venenosa (2d6 área) Nível 5 — Ira da Mata (3d8 natureza)
+O espaço se fragmenta como vidro.
+Centenas de lâminas transparentes surgem suspensas no ar.
 
-Estilo: Controle e resistência.
+Cada movimento do inimigo gera cortes automáticos.
 
-🕯 Pacto das Sombras
-Passiva: Invisível 1 turno após eliminar alvo.
+---
 
-Nível 1 — Toque Sombrio (1d8 necrótico) Nível 3 — Véu da Noite Nível 5 — Eclipse Interior (3d10)
+## 🔹 Efeitos
 
-Estilo: Assassina mística.
+- Cortes materializados perseguem inimigos;
+- ataques ignoram parcialmente armaduras;
+- esquivas possuem dificuldade aumentada;
+- cortes podem rasgar o espaço.
 
-🌬 XAMÃ — Caminhos Espirituais
-🐺 Caminho do Espírito Animal
-Passiva: Invoca espírito menor permanente.
+---
 
-Nível 1 — Lobo Espiritual (1d6 por turno) Nível 3 — Fúria do Urso (+2 dano) Nível 5 — Avatar Totêmico (3d8)
+## ✨ Amplificação Suprema — Horizonte Fraturado
 
-Estilo: Invocador.
+Milhares de cortes invisíveis atravessam toda a barreira simultaneamente.
 
-🌪 Caminho dos Elementos
-Passiva: Escolhe elemento por combate.
+---
 
-Nível 1 — Sopro Elemental (1d8) Nível 3 — Investida Elemental (2d8) Nível 5 — Fúria Natural (3d10)
+# 🔥 ESCOLA DA PIROMANCIA
+## Domínio — *Trono do Sol Carmesim*
 
-Estilo: Versátil ofensivo.
+Um céu vermelho em combustão cobre o Domínio.
 
-🌫 Caminho dos Ancestrais
-Passiva: Pode repetir um teste falho por combate.
+O ar se torna sufocante.
+O chão racha em magma.
 
-Nível 1 — Conselho Espiritual Nível 3 — Proteção Ancestral (reduz dano em área) Nível 5 — Chamado Supremo (invoca espírito maior 3d8)
+---
 
-Estilo: Suporte espiritual.
+## 🔹 Efeitos
 
-✨ CLÉRIGO — Domínios do Fragmento
-☀️ Domínio da Luz
-Passiva: Dano radiante +1.
+- Magias de fogo causam dano contínuo;
+- explosões possuem área ampliada;
+- inimigos perdem PE pelo calor extremo;
+- fogo pode surgir diretamente do ambiente.
 
-Nível 1 — Raio Sagrado (1d8) Nível 3 — Explosão Solar (2d8) Nível 5 — Julgamento Divino (3d10)
+---
 
-Estilo: Ofensivo sagrado.
+## ✨ Amplificação Suprema — Coração da Supernova
 
-🛡 Domínio da Proteção
-Passiva: Aliados adjacentes recebem -1 dano.
+Uma explosão solar consome toda a área do Domínio.
 
-Nível 1 — Escudo da Fé Nível 3 — Muralha Celestial Nível 5 — Bastião Divino (reduz metade dano do grupo)
+---
 
-Estilo: Defensor supremo.
+# ❄️ ESCOLA DO GELO RÚNICO
+## Domínio — *Catedral do Inverno Eterno*
 
-⚖️ Domínio do Julgamento
-Passiva: Dano dobrado contra criaturas corrompidas.
+Tudo dentro da barreira desacelera.
 
-Nível 1 — Marca do Pecador (1d8) Nível 3 — Correntes da Verdade (imobiliza) Nível 5 — Veredito Final (3d12 radiante)
+O som congela.
+A respiração vira cristais.
 
-Estilo: Caçador de monstros.
+---
 
+## 🔹 Efeitos
+
+- Movimento inimigo drasticamente reduzido;
+- magias congelam o terreno;
+- técnicas podem aprisionar múltiplos alvos;
+- inimigos acumulam camadas de congelamento.
+
+---
+
+## ✨ Amplificação Suprema — Silêncio Branco Absoluto
+
+Toda a barreira entra em congelamento total.
+
+---
+
+---
+
+# 🔥 FEITICEIRO — LINHAGENS DO SANGUE
+
+Os Feiticeiros manifestam Domínios violentos e instáveis.
+
+---
+
+# ⚡ LINHAGEM DA TEMPESTADE
+## Domínio — *Palácio da Tempestade Viva*
+
+Nuvens negras cobrem o espaço.
+
+Raios percorrem constantemente o céu e o chão.
+
+---
+
+## 🔹 Efeitos
+
+- Descargas elétricas automáticas;
+- técnicas ricocheteiam entre inimigos;
+- inimigos sofrem paralisias temporárias;
+- o usuário ganha velocidade extrema.
+
+---
+
+## ✨ Amplificação Suprema — Julgamento Celestial
+
+Uma tempestade colossal atinge toda a área simultaneamente.
+
+---
+
+# 🔥 LINHAGEM DRACÔNICA
+## Domínio — *Covil do Dragão Primordial*
+
+O Domínio se transforma em uma caverna colossal preenchida por fogo ancestral.
+
+Olhos dracônicos observam os inimigos.
+
+---
+
+## 🔹 Efeitos
+
+- Técnicas de fogo recebem amplificação massiva;
+- o usuário ganha escamas espirituais;
+- rugidos causam medo;
+- chamas perseguem inimigos automaticamente.
+
+---
+
+## ✨ Amplificação Suprema — Despertar do Rei Dragão
+
+Uma manifestação parcial de um dragão ancestral emerge dentro da barreira.
+
+---
+
+# 🌌 LINHAGEM DA RUPTURA
+## Domínio — *Colapso da Imperfeição*
+
+A realidade começa a falhar.
+
+O chão se distorce.
+O espaço pulsa irregularmente.
+
+---
+
+## 🔹 Efeitos
+
+- Técnicas mudam de elemento aleatoriamente;
+- magias podem duplicar espontaneamente;
+- inimigos sofrem instabilidade de PE;
+- fissuras dimensionais surgem constantemente.
+
+---
+
+## ✨ Amplificação Suprema — Segunda Ruptura
+
+Parte da realidade dentro do Domínio entra em colapso total.
+
+---
+
+---
+
+# 🌿 BRUXA — PACTOS E VÉUS
+
+Domínios de Bruxa são profundamente emocionais e espirituais.
+
+---
+
+# 🌑 PACTO DO SANGUE
+## Domínio — *Lua Escarlate das Mil Veias*
+
+Um luar vermelho cobre o Domínio.
+
+Veias espirituais surgem pelas paredes e pelo chão.
+
+---
+
+## 🔹 Efeitos
+
+- Dano causado recupera PV;
+- técnicas podem consumir vida para aumentar poder;
+- inimigos sofrem drenagem contínua;
+- sangue derramado fortalece magias.
+
+---
+
+## ✨ Amplificação Suprema — Coração Carmesim
+
+Toda criatura dentro da área sofre colapso sanguíneo simultâneo.
+
+---
+
+# 🌿 PACTO DA FLORESTA ANTIGA
+## Domínio — *Jardim da Floresta Primordial*
+
+Uma floresta ancestral nasce dentro da barreira.
+
+Raízes vivas percorrem o ambiente.
+
+---
+
+## 🔹 Efeitos
+
+- Regeneração constante;
+- raízes prendem inimigos automaticamente;
+- plantas absorvem PE adversário;
+- espíritos naturais fortalecem aliados.
+
+---
+
+## ✨ Amplificação Suprema — Nascimento da Mata Viva
+
+Toda a área explode em crescimento vegetal destrutivo.
+
+---
+
+# 🕯️ PACTO DAS SOMBRAS
+## Domínio — *Eclipse do Véu Sombrio*
+
+Toda luz desaparece.
+
+Sombras começam a se mover independentemente.
+
+---
+
+## 🔹 Efeitos
+
+- O usuário torna-se difícil de localizar;
+- clones sombrios surgem das sombras;
+- ataques podem surgir de qualquer direção;
+- inimigos sofrem perda gradual de percepção.
+
+---
+
+## ✨ Amplificação Suprema — Noite Sem Lua
+
+As sombras devoram completamente o interior da barreira.
+
+---
+
+---
+
+# 🌬️ XAMÃ — CAMINHOS ESPIRITUAIS
+
+Os Xamãs manifestam Domínios ligados ao plano espiritual.
+
+---
+
+# 🐺 CAMINHO DO ESPÍRITO ANIMAL
+## Domínio — *Floresta Totêmica das Mil Presas*
+
+Espíritos animais gigantes observam a batalha.
+
+Sombras assumem formas bestiais.
+
+---
+
+## 🔹 Efeitos
+
+- Invocações ganham versões espirituais adicionais;
+- espíritos animais atacam automaticamente;
+- clones feitos de sombras espirituais surgem;
+- o usuário compartilha sentidos com invocações.
+
+---
+
+## ✨ Amplificação Suprema — Caçada do Espírito Supremo
+
+Uma entidade ancestral colossal manifesta-se temporariamente.
+
+---
+
+# 🌪️ CAMINHO DOS ELEMENTOS
+## Domínio — *Círculo da Fúria Natural*
+
+Os quatro elementos colidem constantemente.
+
+Tempestades, fogo, gelo e pedra coexistem.
+
+---
+
+## 🔹 Efeitos
+
+- Técnicas elementais recebem amplificação massiva;
+- o terreno muda continuamente;
+- inimigos sofrem efeitos elementais aleatórios;
+- o usuário alterna elementos livremente.
+
+---
+
+## ✨ Amplificação Suprema — Cataclismo Primordial
+
+Todos os elementos explodem simultaneamente.
+
+---
+
+# 🌫️ CAMINHO DOS ANCESTRAIS
+## Domínio — *Vale das Mil Almas*
+
+O plano espiritual se sobrepõe ao físico.
+
+Ancestrais caminham pela barreira.
+
+---
+
+## 🔹 Efeitos
+
+- Espíritos antigos protegem aliados;
+- técnicas de suporte possuem área ampliada;
+- inimigos sofrem pressão espiritual;
+- aliados recuperam PE lentamente.
+
+---
+
+## ✨ Amplificação Suprema — Chamado dos Primeiros Espíritos
+
+Entidades ancestrais gigantes descem sobre o campo de batalha.
+
+---
+
+---
+
+# ✨ CLÉRIGO — DOMÍNIOS DO FRAGMENTO
+
+Os Clérigos canalizam ecos diretos dos Fragmentos do Coração-Estrela.
+
+---
+
+# ☀️ DOMÍNIO DA LUZ
+## Domínio — *Aurora do Primeiro Fragmento*
+
+Uma luz dourada cobre completamente a barreira.
+
+---
+
+## 🔹 Efeitos
+
+- Cura contínua em aliados;
+- mortos-vivos sofrem dano automático;
+- corrupção e medo enfraquecem;
+- técnicas radiantes recebem amplificação.
+
+---
+
+## ✨ Amplificação Suprema — Ascensão da Primeira Luz
+
+Uma explosão divina purifica toda a área.
+
+---
+
+# 🛡️ DOMÍNIO DA PROTEÇÃO
+## Domínio — *Bastião Celestial*
+
+Uma fortaleza espiritual envolve todos os aliados.
+
+Runas douradas surgem no ar.
+
+---
+
+## 🔹 Efeitos
+
+- Dano recebido pelo grupo é reduzido;
+- barreiras absorvem ataques;
+- aliados recebem resistência mágica;
+- inimigos possuem dificuldade para avançar.
+
+---
+
+## ✨ Amplificação Suprema — Muralha do Fragmento
+
+Uma defesa absoluta protege todos dentro da barreira.
+
+---
+
+# ⚖️ DOMÍNIO DO JULGAMENTO
+## Domínio — *Tribunal das Almas*
+
+Correntes luminosas surgem ao redor dos inimigos.
+
+Olhos gigantescos observam cada ação.
+
+---
+
+## 🔹 Efeitos
+
+- Criaturas corrompidas sofrem punições ampliadas;
+- mentiras e ilusões enfraquecem;
+- técnicas malignas perdem força;
+- o usuário prevê hostilidade iminente.
+
+---
+
+## ✨ Amplificação Suprema — Veredito Final
+
+A Essência dos inimigos é julgada diretamente pelo Fragmento.
+
+---
+
+---
+
+# 🌌 CONSIDERAÇÕES NARRATIVAS
+
+Os Domínios são extremamente raros em Majorya.
+
+Quando um Domínio é ativado:
+
+- o ambiente muda;
+- criaturas sentem a pressão espiritual;
+- e a Essência do mundo reage violentamente.
+
+Muitos estudiosos acreditam que os Domínios são ecos do próprio Artista tentando remodelar a realidade através dos mortais.
