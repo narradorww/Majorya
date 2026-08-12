@@ -58,53 +58,6 @@ Centro logístico e militar.
 
 ---
 
-# 🌲 DOMÍNIO DA FLORESTA
-## Floresta de Caelthar
-Capital: Caelthar Caetetiel
-
-As cidades élficas se erguem entre árvores e rios sagrados.
-
----
-
-### 🌿 Jarinueth Silvestre  
-(Inspirada em Jarinu)
-
-Cidade elevada entre copas gigantes.
-Conhecida por seus druidas e guardiões da névoa.
-
----
-
-### 🌊 Rioacimel  
-(Inspirada em Rio Acima)
-
-Localizada nas nascentes cristalinas.
-Centro espiritual e de rituais lunares.
-
----
-
-### 🌸 Estanciel Lynareth  
-(Inspirada em Estância Lynce)
-
-Refúgio artístico élfico.
-Berço de bardos e magos naturais.
-
----
-
-### 🍃 Imperial Caetetir  
-(Inspirada em Jardim Imperial)
-
-Cidade-ponte entre diplomacia e defesa florestal.
-
----
-
-### 🌲 Loandriel  
-(Inspirada em Loanda)
-
-Vila discreta escondida por ilusões naturais.
-Base de patrulhas secretas élficas.
-
----
-
 # 🌾 DOMÍNIO DA VONTADE
 ## Planícies de Alvion
 Capital: Alvion
