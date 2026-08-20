@@ -1070,18 +1070,6 @@ Ela funciona apenas quando a Essência Vital do alvo ainda não se dissipou.
 
 O Narrador determina se a morte ocorreu recentemente o suficiente para permitir a técnica.
 
-
-# 📊 Comparação das Classes Especiais
-
-
-| Classe | Função principal | Dificuldade | Mecânica |
-|---|---|---:|---|
-| 🎰 **Apostador do Destino** | Sorte e dano crescente | ⭐⭐⭐⭐ | Apostas |
-| 🧬 **Copiador da Essência** | Adaptação e versatilidade | ⭐⭐⭐⭐⭐ | Cópia |
-| 🪞 **Mestre da Ilusão** | Engano e controle | ⭐⭐⭐⭐⭐ | Ilusões |
-| 🌀 **Modelador da Essência** | Transformação | ⭐⭐⭐⭐⭐ | Modelagem |
-| ⚙️ **Artífice da Criação** | Criação e preparação | ⭐⭐⭐⭐ | Materialização |
-
 ---
 
 # 🧠 Filosofia das Classes Especiais
