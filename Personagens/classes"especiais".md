@@ -760,8 +760,319 @@ Um jogador preparado pode possuir uma ferramenta para praticamente qualquer situ
 Por outro lado, um jogador que desperdiça sua Essência rapidamente pode ficar sem recursos.
 
 ---
+# 💥 Demolidor da Essência
+
+**Papel:** Ofensivo / Mobilidade / Dano Explosivo  
+**Atributos principais:** Agilidade e Força  
+**Recurso especial:** **Pressão**
+
+> Alguns guerreiros aprendem a controlar armas.
+>
+> Outros aprendem a controlar magia.
+>
+> O Demolidor aprendeu a transformar sua própria energia em **explosões de impacto**.
+>
+> Quanto maior a pressão acumulada em seu corpo, mais destrutivo ele se torna.
+>
+> Mas explosões maiores também significam maior risco.
+>
+> **O Demolidor luta no limite entre controle e destruição.**
+
+---
+
+# 💥 Mecânica Especial — Pressão
+
+O Demolidor possui um recurso chamado **Pressão**.
+
+Sempre que realizar uma técnica explosiva ou sofrer dano significativo, pode acumular **1 ponto de Pressão**, até um máximo de **5**.
+
+A Pressão pode ser utilizada para potencializar técnicas.
+
+### Efeitos da Pressão
+
+| Pressão | Efeito |
+|:---:|---|
+| **1–2** | Técnicas recebem **+1 dano**. |
+| **3–4** | Técnicas recebem **+1d4 dano**. |
+| **5** | Técnicas recebem **+1d6 dano**, mas o Demolidor sofre **1 PV** após utilizá-las. |
+
+A Pressão desaparece completamente quando o combate termina.
+
+> Quanto mais tempo o Demolidor permanece lutando, mais perigoso ele se torna.
+
+---
+
+# 💥 Nível 1 — Explosão Propulsora
+
+O Demolidor libera uma explosão concentrada para impulsionar seu próprio corpo.
+
+Pode utilizar a técnica para:
+
+- Avançar até **6 metros**;
+- Recuar até **6 metros**;
+- Atravessar pequenos obstáculos;
+- Realizar um ataque imediatamente após o deslocamento.
+
+Se o ataque acertar após o movimento, causa **+1d4 de dano**.
+
+O movimento não provoca ataques de oportunidade.
+
+### Limitação
+
+A técnica só pode ser utilizada **uma vez por turno**.
+
+---
+
+# 💣 Nível 3 — Impacto Concentrado
+
+O Demolidor concentra sua energia em um único ponto e libera uma explosão extremamente compacta.
+
+Ao realizar um ataque corpo a corpo:
+
+**Dano: 2d8 + Pressão**
+
+Se utilizar pelo menos **3 pontos de Pressão**, o alvo também é empurrado **3 metros**.
+
+Se utilizar **5 pontos**, o próprio Demolidor sofre **1 PV** após o ataque.
+
+---
+
+# 🚀 Nível 5 — Mobilidade Explosiva
+
+O Demolidor aprende a utilizar suas explosões não apenas para atacar, mas para controlar completamente seu posicionamento.
+
+Uma vez por turno, pode realizar um deslocamento explosivo de até **9 metros**.
+
+Durante esse movimento:
+
+- Ignora terreno difícil;
+- Pode atravessar espaços estreitos;
+- Não pode ser derrubado;
+- Recebe **+1 Defesa** até o início do próximo turno.
+
+Se terminar o movimento próximo de um inimigo, pode realizar um ataque com **+1d4 de dano**.
+
+---
+
+# 💥 Nível 7 — Domínio: Campo de Detonação
+
+O Demolidor cria uma área onde cada movimento seu pode gerar uma explosão.
+
+A barreira transforma o campo em uma região marcada por ondas de impacto, fumaça e energia concentrada.
+
+Dentro do domínio:
+
+## Regra da Detonação
+
+Sempre que o Demolidor:
+
+- Atacar;
+- Receber dano;
+- Realizar um deslocamento explosivo;
+
+pode gerar uma pequena explosão adicional.
+
+A explosão causa:
+
+**1d4 de dano** a criaturas próximas.
+
+Além disso, seus deslocamentos explosivos passam a ter alcance de **12 metros**.
+
+## Regra de Sobrecarga
+
+A cada **3 explosões adicionais**, o Demolidor recebe **1 Pressão**.
+
+Porém, ao atingir **5 Pressão** dentro do domínio, sofre **1d4 PV** devido à sobrecarga.
+
+> O domínio não garante vitória.
+>
+> Ele transforma o campo inteiro em uma extensão do estilo de combate do Demolidor.
+
+---
+
+# ☄️ Nível 9 — Detonação Suprema
+
+O Demolidor concentra toda a Pressão acumulada em uma única explosão.
+
+Pode gastar toda a Pressão restante.
+
+O ataque causa:
+
+**3d10 + 1d6 por ponto de Pressão gasto.**
+
+Após utilizar a técnica:
+
+- Toda a Pressão é zerada;
+- O Demolidor perde **2 PV**;
+- Não pode acumular Pressão novamente até o início do próximo turno.
+
+Se estiver com **5 Pressão**, a explosão também empurra todos os alvos atingidos em até **6 metros**.
+
+> **"Se eu vou cair, você vem comigo."**
+
+# 🩺 Médico da Essência
+
+**Papel:** Suporte / Cura / Controle de Recursos  
+**Atributos principais:** Inteligência e Vigor  
+**Recurso especial:** **Essência Vital**
+
+> Existem curandeiros que utilizam ervas.
+>
+> Existem sacerdotes que utilizam milagres.
+>
+> E existem aqueles que compreenderam a própria estrutura da vida.
+>
+> O Médico da Essência manipula a energia vital de maneira precisa.
+>
+> Ele não é um guerreiro.
+>
+> Não é um sacerdote.
+>
+> É alguém que compreende **como um corpo funciona — e como fazê-lo continuar funcionando**.
+
+---
+
+# 🩺 Mecânica Especial — Essência Vital
+
+O Médico possui **Pontos de Essência Vital (EV)**.
+
+Ele possui uma quantidade de EV igual a:
+
+**3 + Inteligência**
+
+Os EV são recuperados parcialmente após um descanso.
+
+As técnicas de cura consomem EV.
+
+> A classe não possui cura infinita.
+>
+> Sua principal dificuldade é decidir **quem salvar, quando salvar e quanto recurso gastar**.
+
+---
+
+# 🩹 Nível 1 — Tratamento Preciso
+
+O Médico toca um aliado e estabiliza sua Essência Vital.
+
+**Custo:** 1 EV
+
+O alvo recupera:
+
+**1d6 + Inteligência PV**
+
+Se o alvo estiver com **0 PV**, ele volta à consciência com os PV recuperados, mas continua incapaz de agir até o próximo turno.
+
+### Limitação
+
+Não pode utilizar esta habilidade duas vezes no mesmo alvo no mesmo turno.
+
+---
+
+# 🧬 Nível 3 — Diagnóstico Vital
+
+O Médico aprende a identificar rapidamente as condições físicas de uma criatura.
+
+Ao observar um alvo por um turno, pode descobrir:
+
+- PV aproximados;
+- condição física;
+- venenos;
+- doenças;
+- ferimentos graves;
+- efeitos negativos ativos;
+- alterações anormais na Essência.
+
+Além disso, recebe **+2 em testes relacionados à Medicina**.
+
+### Uso em combate
+
+Uma vez por combate, pode realizar um diagnóstico instantâneo de uma criatura que esteja a até **6 metros**.
+
+---
+
+# 🩸 Nível 5 — Reversão Vital
+
+O Médico consegue reconstruir parcialmente tecidos danificados através da manipulação da Essência.
+
+**Custo:** 2 EV
+
+O alvo recupera:
+
+**2d6 + Inteligência PV**
+
+Além disso, pode remover **uma condição física simples**, como:
+
+- sangramento;
+- veneno;
+- fratura;
+- queimadura;
+- exaustão física.
+
+### Limitação
+
+Não remove:
+
+- maldições poderosas;
+- corrupção;
+- efeitos de artefatos;
+- condições sobrenaturais de alto nível.
+
+Esses efeitos exigem tratamento narrativo ou habilidades específicas.
+
+---
+
+# 🏥 Nível 7 — Domínio: Sala de Reconstrução Vital
+
+O Médico cria uma barreira que transforma o espaço em uma espécie de **enfermaria sobrenatural**.
+
+Dentro dela, a Essência Vital de todos os aliados pode ser monitorada.
+
+Enquanto estiver dentro do domínio:
+
+- Aliados recebem **+1 Defesa**;
+- O Médico pode identificar imediatamente ferimentos;
+- Suas curas recuperam **+1d4 PV**;
+- Aliados inconscientes podem ser estabilizados à distância.
+
+### Regra — Rede Vital
+
+Uma vez por turno, quando um aliado dentro do domínio sofrer dano suficiente para chegar a **0 PV**, o Médico pode gastar **1 EV** para impedir que ele caia.
+
+O aliado permanece com **1 PV**.
+
+> O domínio não transforma o Médico em um deus.
+>
+> Ele transforma o campo de batalha em um lugar onde **morrer se torna muito mais difícil**.
+
+---
+
+# ❤️ Nível 9 — Reanimação de Emergência
+
+O Médico alcança o limite máximo de sua técnica.
+
+Ao tocar uma criatura que tenha chegado a **0 PV recentemente**, pode gastar **3 EV**.
+
+O alvo retorna imediatamente à consciência com:
+
+**3d6 + Inteligência PV**
+
+Além disso:
+
+- Remove uma condição física simples;
+- Recebe **+1 Defesa** até o final do próximo turno;
+- Não pode ser alvo dessa técnica novamente até o próximo descanso.
+
+### Limitação Importante
+
+A técnica **não ressuscita mortos**.
+
+Ela funciona apenas quando a Essência Vital do alvo ainda não se dissipou.
+
+O Narrador determina se a morte ocorreu recentemente o suficiente para permitir a técnica.
+
 
 # 📊 Comparação das Classes Especiais
+
 
 | Classe | Função principal | Dificuldade | Mecânica |
 |---|---|---:|---|
